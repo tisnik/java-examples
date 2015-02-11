@@ -1,0 +1,2 @@
+java -cp .:../db/sqlite-jdbc-3.8.7.jar JDBC4
+
