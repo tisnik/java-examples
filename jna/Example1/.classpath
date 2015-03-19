@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.0/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="/home/ptisnovs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/ptisnovs/linux-x86.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
