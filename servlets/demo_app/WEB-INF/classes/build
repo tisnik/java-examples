@@ -1,0 +1,1 @@
+javac -cp /home/ptisnovs/tomcat/common/lib/servlet-api.jar Findbug.java
